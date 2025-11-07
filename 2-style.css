@@ -1,0 +1,18 @@
+html{
+background-image: url("");
+background-attachment: fixed;
+background-position: center,center;
+}
+
+.wrapper{
+    background-color: tomato;
+    border-left-color: darkorange;
+    
+
+
+}
+
+
+.backgroundcolor{
+    background-color: antiquewhite;
+}
